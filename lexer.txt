@@ -1,0 +1,3 @@
+The lexer code can be ofund in the repository at .... We have chosen java for our 
+language for the lexer due to our familiarity with it. Additionally, we due to the 
+similarities in the languages and objects. 

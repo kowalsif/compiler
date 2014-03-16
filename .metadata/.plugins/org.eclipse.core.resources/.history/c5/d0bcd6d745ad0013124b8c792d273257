@@ -66,10 +66,10 @@ public class lexer {
 					System.out.println("minus");
 					break;
 				case 4:
-					System.out.println("space");
+					System.out.println();
 					break;
 				case 5:
-					System.out.println("newline");
+					System.out.println();
 					break;
 				default: break;
 			}
